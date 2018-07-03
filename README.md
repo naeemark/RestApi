@@ -14,6 +14,7 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
+    `rails `
 
 * How to run the test suite
 
@@ -21,4 +22,16 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Create Model
+
+     `rails g model Article title:string body:text`
+     
+* Database Migration
+
+     `rails db:migrate`
+     
+* Database Seed
+
+     `rails db:seed`
+
+     
