@@ -4,4 +4,8 @@ Rails.application.routes.draw do
       resources :articles
     end
   end
+
+  namespace 'api' do
+    resources :token
+  end
 end
