@@ -5,7 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* RubyMine `v2018.1.3`
+
+* Ruby version `v2.3.3p222` 
+
+* Rails version `v5.2.0`
 
 * System dependencies
 
@@ -14,7 +18,7 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
-    `rails `
+    `rails db:migrate`
 
 * How to run the test suite
 
@@ -33,5 +37,12 @@ Things you may want to cover:
 * Database Seed
 
      `rails db:seed`
+     
+     
+## Reference
+
+* https://www.youtube.com/watch?v=QojnRc7SS9o
+* https://github.com/bradtraversy/simple-rails-rest
+* [Faker](https://github.com/stympy/faker)
 
      
